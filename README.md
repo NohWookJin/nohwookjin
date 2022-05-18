@@ -2,7 +2,6 @@
 <p>Welcome to my page.</p>
 <p>I'm a student of SungKongHoe Univ.</p>
 <p>Studying to become a Front-End developer in Korea.</p>
-<br>
 
 
 <h2>👨‍💻 Skills</h2>
