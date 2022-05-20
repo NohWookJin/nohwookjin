@@ -1,4 +1,4 @@
-<h2>😎  Nice to see you.</h2>
+<h2>😎 Nice to see you.</h2>
 <p>Welcome to my page.</p>
 <p>I'm a student of SungKongHoe Univ.</p>
 <p>Studying to become a Front-End developer in Korea.</p>
