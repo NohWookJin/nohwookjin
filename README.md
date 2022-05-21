@@ -13,8 +13,6 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" />
 </p>
 
-<h2></h2>
-
 
 <!--
 **NohWookJin/nohwookjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
