@@ -4,7 +4,7 @@
 <p>Studying to become a Front-End developer in Korea.</p>
 <br> 
   
-<h2>👨‍💻 Skills</h2>
+<h2>👨‍💻 Skills</h2>  
 <h4>Things I Try To Do Well  </h4>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
