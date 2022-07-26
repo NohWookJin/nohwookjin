@@ -13,6 +13,11 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" />
 </p> 
+<br> 
+
+<h2>🧑‍🚀</h2>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NohWookJin)](https://github.com/anuraghazra/github-readme-stats)
  
 
 <!--
